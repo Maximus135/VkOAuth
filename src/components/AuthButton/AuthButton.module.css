@@ -1,0 +1,25 @@
+.AuthButton {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border-radius: 0.12em;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    transition: all 0.2s;
+    border: #00000085 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: "Piazzolla", serif;
+    font-size: 17px;
+}
+
+.AuthButton:hover {
+    color: #000000;
+    background-color: #ffffff8c;
+}

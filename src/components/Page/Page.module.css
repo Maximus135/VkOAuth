@@ -1,0 +1,63 @@
+.InfoWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    background-color: rgba(240, 255, 255, 0.767);
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.InfoWrapper:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Data {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 75px;
+    text-align: center;
+}
+
+.Name {
+    font-family: "Piazzolla", serif;
+    font-size: 35px;
+}
+
+.SecondName {
+    font-family: "Piazzolla", serif;
+    font-size: 35px;
+}
+
+.Exit {
+    margin-top: 95px;
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border-radius: 0.12em;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    text-align: center;
+    transition: all 0.2s;
+    border: #00000085 1px solid;
+    cursor: pointer;
+    background-color: #ffffff8c;
+    border-radius: 5px;
+    font-family: "Piazzolla", serif;
+    font-size: 17px;
+}
+
+.Exit:hover {
+    color: #000000;
+    background-color: #ffffffbb;
+}
