@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VkOAuth/static/css/main.238c481e.chunk.css",
+    "main.js": "/VkOAuth/static/js/main.8a56a072.chunk.js",
+    "main.js.map": "/VkOAuth/static/js/main.8a56a072.chunk.js.map",
+    "runtime-main.js": "/VkOAuth/static/js/runtime-main.c8a10233.js",
+    "runtime-main.js.map": "/VkOAuth/static/js/runtime-main.c8a10233.js.map",
+    "static/js/2.2bc2fe2c.chunk.js": "/VkOAuth/static/js/2.2bc2fe2c.chunk.js",
+    "static/js/2.2bc2fe2c.chunk.js.map": "/VkOAuth/static/js/2.2bc2fe2c.chunk.js.map",
+    "index.html": "/VkOAuth/index.html",
+    "precache-manifest.539a79186ba0fdbacf3eb2d68ef78717.js": "/VkOAuth/precache-manifest.539a79186ba0fdbacf3eb2d68ef78717.js",
+    "service-worker.js": "/VkOAuth/service-worker.js",
+    "static/css/main.238c481e.chunk.css.map": "/VkOAuth/static/css/main.238c481e.chunk.css.map",
+    "static/js/2.2bc2fe2c.chunk.js.LICENSE.txt": "/VkOAuth/static/js/2.2bc2fe2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a10233.js",
+    "static/js/2.2bc2fe2c.chunk.js",
+    "static/css/main.238c481e.chunk.css",
+    "static/js/main.8a56a072.chunk.js"
+  ]
+}
