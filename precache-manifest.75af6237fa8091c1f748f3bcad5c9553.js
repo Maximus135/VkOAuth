@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f3c85b824ee2f5f53d4e3cf842c5cbe",
+    "revision": "88605d65b3f3357d764ff6c159325487",
     "url": "/VkOAuth/index.html"
   },
   {
-    "revision": "6b19d1f3e95615bdea0e",
+    "revision": "887d4b522b3241b8ffc3",
     "url": "/VkOAuth/static/css/main.238c481e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VkOAuth/static/js/2.2bc2fe2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b19d1f3e95615bdea0e",
-    "url": "/VkOAuth/static/js/main.8a56a072.chunk.js"
+    "revision": "887d4b522b3241b8ffc3",
+    "url": "/VkOAuth/static/js/main.e6c6761a.chunk.js"
   },
   {
     "revision": "fddb6a6313c3c84d8c33",
