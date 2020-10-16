@@ -12,7 +12,7 @@ const exit = () => {
 
 const Page = ()=>{
 
-    window.history.pushState({},{},'/profile');
+    window.history.pushState({},{},'/VkOAuth/profile');
     const [account, setAccount] = useState({});
 
     useEffect(() => {

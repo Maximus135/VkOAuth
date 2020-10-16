@@ -5,7 +5,7 @@ import { Redirect } from 'react-router-dom';
 const params = {
     client_id: 7629557,
     display: 'page',
-    redirect_uri: 'http://localhost:3000/',
+    redirect_uri: 'https://maximus135.github.io/VkOAuth/',
     scope: '',
     response_type: 'token',
     v: '5.124'
